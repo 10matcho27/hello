@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 
 public class App {
     public static void main(String[] args) {
-        int my_num = 39;
+        int my_num = 37;
         int user_input_num = 0;
         Boolean is_correct = false;
         for(int i = 0; i < 5; i++){
